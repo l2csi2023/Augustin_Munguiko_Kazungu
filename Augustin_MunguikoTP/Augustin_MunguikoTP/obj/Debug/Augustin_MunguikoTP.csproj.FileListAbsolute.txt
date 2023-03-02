@@ -1,0 +1,9 @@
+C:\Users\Augustin\Desktop\AUGUSTIN MUNGUIKO TP\Augustin_Munguiko_Kazungu\Augustin_MunguikoTP\Augustin_MunguikoTP\bin\Debug\Augustin_MunguikoTP.exe.config
+C:\Users\Augustin\Desktop\AUGUSTIN MUNGUIKO TP\Augustin_Munguiko_Kazungu\Augustin_MunguikoTP\Augustin_MunguikoTP\bin\Debug\Augustin_MunguikoTP.exe
+C:\Users\Augustin\Desktop\AUGUSTIN MUNGUIKO TP\Augustin_Munguiko_Kazungu\Augustin_MunguikoTP\Augustin_MunguikoTP\bin\Debug\Augustin_MunguikoTP.pdb
+C:\Users\Augustin\Desktop\AUGUSTIN MUNGUIKO TP\Augustin_Munguiko_Kazungu\Augustin_MunguikoTP\Augustin_MunguikoTP\obj\Debug\Augustin_MunguikoTP.csprojResolveAssemblyReference.cache
+C:\Users\Augustin\Desktop\AUGUSTIN MUNGUIKO TP\Augustin_Munguiko_Kazungu\Augustin_MunguikoTP\Augustin_MunguikoTP\obj\Debug\Augustin_MunguikoTP.Form1.resources
+C:\Users\Augustin\Desktop\AUGUSTIN MUNGUIKO TP\Augustin_Munguiko_Kazungu\Augustin_MunguikoTP\Augustin_MunguikoTP\obj\Debug\Augustin_MunguikoTP.Properties.Resources.resources
+C:\Users\Augustin\Desktop\AUGUSTIN MUNGUIKO TP\Augustin_Munguiko_Kazungu\Augustin_MunguikoTP\Augustin_MunguikoTP\obj\Debug\Augustin_MunguikoTP.csproj.GenerateResource.Cache
+C:\Users\Augustin\Desktop\AUGUSTIN MUNGUIKO TP\Augustin_Munguiko_Kazungu\Augustin_MunguikoTP\Augustin_MunguikoTP\obj\Debug\Augustin_MunguikoTP.exe
+C:\Users\Augustin\Desktop\AUGUSTIN MUNGUIKO TP\Augustin_Munguiko_Kazungu\Augustin_MunguikoTP\Augustin_MunguikoTP\obj\Debug\Augustin_MunguikoTP.pdb
